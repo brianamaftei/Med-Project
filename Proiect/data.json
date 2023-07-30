@@ -1,0 +1,18 @@
+{
+    "drugs": [
+        {"drugname": "Aspirin", "description": "Pain reliever and fever reducer"},
+        {"drugname": "Ibuprofen", "description": "Nonsteroidal anti-inflammatory drug"}
+    ],
+    "conditions": [
+        {"conditionname": "Headache", "description": "Pain in the region of the head or neck"},
+        {"conditionname": "Fever", "description": "Temporary increase in body temperature"}
+    ],
+    "doctors": [
+        {"firstname": "John", "lastname": "Doe", "specialization": "General Practice"},
+        {"firstname": "Jane", "lastname": "Smith", "specialization": "Pediatrics"}
+    ],
+    "patients": [
+        {"firstname": "Tom", "lastname": "Brown", "dob": "2000-01-01", "gender": "Male"},
+        {"firstname": "Sally", "lastname": "Johnson", "dob": "1990-01-01", "gender": "Female"}
+    ]
+}
